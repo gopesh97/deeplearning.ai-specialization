@@ -15,6 +15,6 @@ AI is transforming multiple industries. After finishing this specialization, you
 We will help you master Deep Learning, understand how to apply it, and build a career in AI.  
 
 ## Courses in the Specialization
-[1. Neural Networks and Deep Learning](https://github.com/gopesh97/deeplearning.ai-specialization/tree/master/1.%20Neural%20Networks%20and%20Deep%20Learning)
+[1. Neural Networks and Deep Learning](https://github.com/gopesh97/deeplearning.ai-specialization/tree/master/1.%20Neural%20Networks%20and%20Deep%20Learning)    
 [2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 ](https://github.com/gopesh97/deeplearning.ai-specialization/tree/master/2.%20Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization)
